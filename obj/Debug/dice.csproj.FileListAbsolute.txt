@@ -1,0 +1,6 @@
+c:\users\jeka\documents\visual studio 2013\Projects\dice\dice\bin\Debug\dice.exe.config
+c:\users\jeka\documents\visual studio 2013\Projects\dice\dice\bin\Debug\dice.exe
+c:\users\jeka\documents\visual studio 2013\Projects\dice\dice\bin\Debug\dice.pdb
+c:\users\jeka\documents\visual studio 2013\Projects\dice\dice\obj\Debug\dice.csprojResolveAssemblyReference.cache
+c:\users\jeka\documents\visual studio 2013\Projects\dice\dice\obj\Debug\dice.exe
+c:\users\jeka\documents\visual studio 2013\Projects\dice\dice\obj\Debug\dice.pdb
